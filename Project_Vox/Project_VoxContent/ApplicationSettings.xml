@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="SharedContent.ApplicationConfig">
+    <!--General Application Settings-->
+    <!---->
+    <ScreenTitle>Josh Dadak(d005578a) - Final Year Project</ScreenTitle>
+    <ScreenWidth>1280</ScreenWidth>
+    <ScreenHeight>720</ScreenHeight>
+    <FullScreen>false</FullScreen>
+    <!--Splash Screen Names-->
+    <!---->
+    <SSplash01>EngineSplash</SSplash01>
+  </Asset>
+</XnaContent>

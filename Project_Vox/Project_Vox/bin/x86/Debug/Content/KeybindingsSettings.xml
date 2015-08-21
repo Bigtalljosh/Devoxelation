@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <XnaContent>      
+    <Asset Type="SharedContent.KeybindingsConfig">
+      <KBMenuSelect>Enter</KBMenuSelect>
+      <KBMenuCancel>Escape</KBMenuCancel>
+      <KBMenuUp>Up</KBMenuUp>
+      <KBMenuDown>Down</KBMenuDown>
+      <GPMenuSelect>A</GPMenuSelect>
+      <GPMenuCancel>Back</GPMenuCancel>
+      <KBPlayerMoveUp>W</KBPlayerMoveUp>
+      <KBPlayerMoveDown>S</KBPlayerMoveDown>
+      <KBPlayerMoveLeft>A</KBPlayerMoveLeft>
+      <KBPlayerMoveRight>D</KBPlayerMoveRight>
+      <KBPlayerAction01>1</KBPlayerAction01>
+      <KBPlayerAction02>2</KBPlayerAction02>
+      <KBPlayerAction03>3</KBPlayerAction03>
+      <GPPlayerAction01>A</GPPlayerAction01>
+      <GPPlayerAction02>B</GPPlayerAction02>
+      <GPPlayerAction03>Y</GPPlayerAction03>
+      <KBEnableEditUI>K</KBEnableEditUI>
+      <KBDisableEditUI>L</KBDisableEditUI>
+    </Asset>
+</XnaContent>

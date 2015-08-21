@@ -1,0 +1,96 @@
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.SettingsEditor.resources
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.SettingsEditor.resources
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources

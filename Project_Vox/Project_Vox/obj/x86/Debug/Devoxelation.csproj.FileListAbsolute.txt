@@ -1,0 +1,308 @@
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Project_Vox.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.exe
+C:\Users\Josh\Desktop\FYPXNA BACKUP\FYP_Voxel_Engine\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Project_Vox.pdb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+D:\Dropbox\Dropbox\FYP\Program Development\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+I:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\BLUE.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+E:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+E:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+G:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+G:\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+I:\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\picture.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\picture.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+E:\FINAL\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\picture.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+G:\FINAL YEAR PROJECT\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_360.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_button_PC.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\picture.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+D:\Dropbox\Dropbox\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.exe
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.pdb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\controllerdetect_BG.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\enginesplash.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\pixel.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\universitysplash.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Dirt.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Grass.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Sand.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Stone.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\Water.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\CubeTextures\water_noborder.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Textures\picture.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\Kootenay.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\Fonts\titlemenufont.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\VertexBuffer.xnb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ApplicationSettings.xml
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\KeybindingsSettings.xml
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ScreensSettings.xml
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Content\ServiceSettings.xml
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.exe
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\Devoxelation.pdb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\OpenTK.dll
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.dll
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\bin\x86\Debug\SharedContent.pdb
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csprojResolveAssemblyReference.cache
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.SettingsEditor.resources
+X:\University\FYP\Project_Vox\Project_Vox\Project_Vox\obj\x86\Debug\Devoxelation.csproj.GenerateResource.Cache

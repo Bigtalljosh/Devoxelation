@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+  <XnaContent>
+    <Asset Type="SharedContent.ScreensConfig">
+      <!--Common Screen Settings-->
+      <!---->
+      <MenuSound>Audio\\menumove</MenuSound>
+      <MenuFont>Fonts\\titlemenufont</MenuFont>
+      <Transition_BGImage>Textures\\pixel</Transition_BGImage>
+      <!--Engine Logo Splash Screen Settings-->
+      <!---->
+      <EngineSplash_Duration>3</EngineSplash_Duration>
+      <EngineSplash_Opacity>0.9</EngineSplash_Opacity>
+      <EngineSplash_BGImage>Textures\\enginesplash</EngineSplash_BGImage>
+      <!--University Logo Splash Screen Settings-->
+      <!---->
+      <UniversitySplash_Duration>3</UniversitySplash_Duration>
+      <UniversitySplash_Opacity>0.9</UniversitySplash_Opacity>
+      <UniversitySplash_BGImage>Textures\\universitysplash</UniversitySplash_BGImage>
+      <!--Controller Detect Screen Settings-->
+      <!---->
+      <ControllerDetect_TranOn>3</ControllerDetect_TranOn>
+      <ControllerDetect_TranOff>3</ControllerDetect_TranOff>
+      <ControllerDetect_BGImage>Textures\\controllerdetect_BG</ControllerDetect_BGImage>
+      <ControllerDetect_360Image>Textures\\controllerdetect_button_360</ControllerDetect_360Image>
+      <ControllerDetect_PCImage>Textures\\controllerdetect_button_PC</ControllerDetect_PCImage>
+      <!--Main Menu Screen Settings-->
+      <Menuoptions01>Start Demo</Menuoptions01>
+      <Menuoptions02>Settings</Menuoptions02>
+      <Menuoptions03>Credits</Menuoptions03>
+      <Menuoptions04>Exit Demo</Menuoptions04>
+      <MainMenu_BGImage>Textures\\controllerdetect_BG</MainMenu_BGImage>
+      <!---->
+    </Asset>
+</XnaContent>
